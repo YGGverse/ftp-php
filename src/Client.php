@@ -2,7 +2,7 @@
 
 namespace Yggverse\Ftp;
 
-class Ftp {
+class Client {
 
   private $_connection;
   private $_passive;

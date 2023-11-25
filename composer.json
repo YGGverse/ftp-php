@@ -1,0 +1,11 @@
+{
+    "name": "yggverse/ftp",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Yggverse\\Ftp\\": "src/"
+        }
+    },
+    "require": {}
+}
